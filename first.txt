@@ -1,2 +1,4 @@
 １ Gitの練習
 ２ 基本的なワークフロー
+３ .git add
+４ .git commit
