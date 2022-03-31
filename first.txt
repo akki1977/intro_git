@@ -3,3 +3,4 @@
 ３ .git add
 ４ .git commit
 ５ .git remove
+６ .git status
