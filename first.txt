@@ -4,3 +4,4 @@
 ４ .git commit
 ５ .git remove
 ６ .git status
+７ .git diff
